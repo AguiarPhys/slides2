@@ -7,4 +7,4 @@ Presentation Layouts
 	- just a list
 	- followed by a cone in the statue
 
-![image](preview.png)
+![image](gnu.svg)
